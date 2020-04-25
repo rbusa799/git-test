@@ -1,0 +1,27 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "\"This is a test folder\"",
+  "main": "index.html",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rbusa799/git-test.git"
+  },
+  "author": "Rajdip Busa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rbusa799/git-test/issues"
+  },
+  "homepage": "https://github.com/rbusa799/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
